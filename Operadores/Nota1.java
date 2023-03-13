@@ -1,6 +1,6 @@
 package Operadores;
 
-public class OperadoresAritmetricos {
+public class Nota1 {
     public void aritmetico(){
         System.out.println("===============================");
 int adicao = 5 + 2;
